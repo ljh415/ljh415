@@ -1,5 +1,6 @@
 # AI, ML을 공부중입니다 🔥
-![Hits(https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fljh415&count_bg=%2379C83D&title_bg=%23555555&icon=googlekeep.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)]
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fljh415&count_bg=%2379C83D&title_bg=%23555555&icon=googlekeep.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 IoT에도 많은 관심이 있습니다! (Raspberry Pi, Jetson Nano)
 
