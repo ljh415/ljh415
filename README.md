@@ -8,4 +8,4 @@ I'm studying AI, Machine Learning, also interested in iot like Raspberry Pi or J
 Please contact me whenever you want. 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ljh415&show_icons=true&hide=issues,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh415&layout=compact&hide=javascript,html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh415&layout=compact&hide=javascript,html,css,scss)
