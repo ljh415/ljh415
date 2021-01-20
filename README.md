@@ -9,3 +9,5 @@ Please contact me whenever you want.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ljh415&show_icons=true&hide=issues,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljh415&layout=compact&hide=javascript,html,css,scss)
+
+| AIFFEL에 관련된 노드는 잠시 비공개로 바꾸었습니다.
